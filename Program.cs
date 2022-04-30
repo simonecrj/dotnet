@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SalarioRea
+namespace ConsoleApp3
 {
     internal class Program
     {
@@ -28,6 +28,7 @@ namespace SalarioRea
                 Console.WriteLine("Salário reajustado: " + salarioNovo);
             }
             Console.ReadKey();
+
         }
     }
 }
